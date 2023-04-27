@@ -77,7 +77,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
 pydeck==0.8.1b0
-Pygments==2.13.0
+Pygments
 Pympler==1.0.1
 pyparsing==3.0.9
 PyPrind==2.11.3
